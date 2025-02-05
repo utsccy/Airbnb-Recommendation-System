@@ -1,4 +1,4 @@
-# CMPE256-Airbnb
+# Airbnb Recommendation System
 
 Airbnb application supports adding your apartment/room to the platform as a host and booking an apartment/room as a user. The objective is to use Airbnb’s publicly available data in order to develop business logic and recommendation engine to support customers as well as hosts in order to recommend favorable listings and to predict optimal pricing for host respectively
 
